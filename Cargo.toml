@@ -31,3 +31,6 @@ opt-level = 3
 
 [profile.release]
 lto = "thin"
+
+[toolchain]
+channel = "nightly"
